@@ -9,7 +9,7 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="https://miro.medium.com/v2/resize:fit:960/1*oJwImXIdksNBJ1ocRPNurg.gif" />
 
 - 🔭 I’m currently working on my Master's degree.
 - 🧮 I’m currently learning Computer Vision.
