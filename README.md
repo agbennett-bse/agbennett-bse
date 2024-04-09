@@ -9,7 +9,7 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
 
 ## ⚡ A Few Quick Facts:
 
-<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP"></a></p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3FjMmM2eWFjcnBnOXYzOWh2amdhbm14ZHZ4dmZwMWd3N25hbGE1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" align="right">
 
 - 🔭 I’m currently working on my Master's degree.
 - 🧮 I’m currently learning Computer Vision.
