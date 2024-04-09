@@ -1,4 +1,4 @@
-<img align="center" width="100%" alt="" src="https://secondcropcreative.com/perfectloops/images/lake-timelapse.gif" />
+<img align="center" width="100%" height="200" alt="" src="https://secondcropcreative.com/perfectloops/images/Mount-Susana-Time-Lapse.gif" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Andrew Bennett 
 
