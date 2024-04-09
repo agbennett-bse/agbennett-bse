@@ -2,7 +2,7 @@
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Andrew Bennett 
 
-I am a data science student at the Barcelona School of Economics 🎓 with a background in computer science and data engineering 💻 and experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥. My research interests include Computer Vision, Large Language Models, and Behavioral Economics ✨. 
+I am a data science student at the Barcelona School of Economics 🎓 with a background in computer science 💻 and experience in  data engineering, exploratory data analysis, machine learning, and statistics 🔥. My research interests include Computer Vision, Large Language Models, and Behavioral Economics ✨. 
 
 </a> <a href="https://www.linkedin.com/in/andrew-g-bennett/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:andrew.gm.bennett@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
 <br>
