@@ -49,10 +49,10 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Microsoft Azure" width="35" height="35"/></code> 
     </a>
     <a href="https://airflow.apache.org/" target="_blank"> 
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Apache_Airflow_Logo.svg" alt="Apache Airflow" width="35" height="35"/></code> 
+    <code><img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/airflow-2.svg" alt="Apache Airflow" width="35" height="35"/></code> 
     </a> 
     <a href="https://www.docker.com/" target="_blank"> 
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.png" alt="Docker" width="35" height="35"/></code> 
+    <code><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="35" height="35"/></code> 
 </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
