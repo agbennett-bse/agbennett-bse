@@ -27,9 +27,6 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
     <a href="https://www.python.org" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="35" height="35"/></code> 
     </a> 
-    <a href="https://opencv.org/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="35" height="35"/></code> 
-    </a> 
     <a href="https://pytorch.org/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="35" height="35"/></code> 
     </a> 
@@ -42,15 +39,15 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
     <a href="https://www.mongodb.com/" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="35" height="35"/></code> 
     </a> 
-    <a href="https://firebase.google.com/" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="35" height="35"/></code> 
-    </a> 
     <a href="https://aws.amazon.com" target="_blank"> 
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
     </a> 
-    <a href="https://www.chartjs.org" target="_blank"> 
-        <code><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="35" height="35"/></code> 
+    <a href="https://cloud.google.com/" target="_blank"> 
+    <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Cloud_Logo.svg" alt="Google Cloud Platform" width="35" height="35"/></code> 
     </a> 
+    <a href="https://azure.microsoft.com/" target="_blank"> 
+    <code><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Microsoft Azure" width="35" height="35"/></code> 
+    </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/></code> 
     </a> 
