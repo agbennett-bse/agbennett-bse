@@ -1,4 +1,4 @@
-<img align="center" width="auto" height="200" alt="" src="https://64.media.tumblr.com/0e2718fb990a3d77a2b826a35812e983/197b5883edae331f-46/s1280x1920/c4a236d5960ab96270a1e1beb5686dea64dabf69.gif" />
+<img align="center" width="100%" alt="" src="https://64.media.tumblr.com/0e2718fb990a3d77a2b826a35812e983/197b5883edae331f-46/s1280x1920/c4a236d5960ab96270a1e1beb5686dea64dabf69.gif" />
 
 ## Hi there, <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> I'm Andrew Bennett 
 
