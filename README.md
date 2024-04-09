@@ -43,7 +43,7 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
         <code><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="35" height="35"/></code> 
     </a> 
     <a href="https://cloud.google.com/" target="_blank"> 
-    <code><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Google_Cloud_Logo.svg" alt="Google Cloud Platform" width="35" height="35"/></code> 
+    <code><img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Google Cloud Platform" width="35" height="35"/></code> 
     </a> 
     <a href="https://azure.microsoft.com/" target="_blank"> 
     <code><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Microsoft Azure" width="35" height="35"/></code> 
