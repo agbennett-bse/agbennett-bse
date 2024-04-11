@@ -14,7 +14,7 @@ I am a data science student at the Barcelona School of Economics 🎓 with a bac
 - 🔭 I’m currently working on my Master's degree.
 - 🧮 I’m currently learning Computer Vision.
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
-- 🤔 I’m looking for help with statistical modeling.
+- 🤔 I’m looking for help with Computer Vision.
 - 💬 Ask me about anything related to the latest tech.
 - 📫 How to reach me: [Gmail](andrew.gm.bennett@gmail.com)
 - 😄 Pronouns: He/Him
